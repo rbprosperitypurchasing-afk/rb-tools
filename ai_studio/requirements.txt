@@ -1,0 +1,11 @@
+# Colab 已自带 torch，这里只列其余依赖
+diffusers>=0.31
+transformers>=4.44
+accelerate>=0.33
+safetensors
+gradio>=6,<7
+deep-translator
+imageio
+imageio-ffmpeg
+pillow
+numpy
